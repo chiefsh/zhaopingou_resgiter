@@ -1,0 +1,414 @@
+2018-05-23 Wed 15:20:28.093 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:20:35.096 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '114,77', 'Id': '10ddd094-c862-4a36-adf4-8e86a15326f6'}
+2018-05-23 Wed 15:20:35.097 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(114, 77)]
+2018-05-23 Wed 15:21:21.597 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:21:30.427 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '187,65', 'Id': 'f26c2287-64bd-4ec8-bb38-17f77879f884'}
+2018-05-23 Wed 15:21:30.427 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(187, 65)]
+2018-05-23 Wed 15:21:33.722 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:21:34.705 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '187,65', 'Id': '82b069d9-8826-444d-82e2-bc175c19a941'}
+2018-05-23 Wed 15:21:34.706 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(187, 65)]
+2018-05-23 Wed 15:21:37.971 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:21:38.909 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '187,65', 'Id': '966d7a64-df46-4608-a249-dcfcc2c63c31'}
+2018-05-23 Wed 15:21:38.910 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(187, 65)]
+2018-05-23 Wed 15:21:42.814 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:21:49.675 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '216,127', 'Id': '0a275db0-dbc3-4dbf-8cb6-48791bc7ba0c'}
+2018-05-23 Wed 15:21:49.676 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(216, 127)]
+2018-05-23 Wed 15:22:45.895 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:22:47.670 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '80,51', 'Id': '8675ce21-7c91-4ac0-89a0-03132d0000fd'}
+2018-05-23 Wed 15:22:47.670 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(80, 51)]
+2018-05-23 Wed 15:23:46.175 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:23:56.146 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '59,127', 'Id': '22a1f6b4-51df-4964-b2fb-3b92a6a8e621'}
+2018-05-23 Wed 15:23:56.146 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(59, 127)]
+2018-05-23 Wed 15:26:32.518 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:26:35.834 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '182,99', 'Id': '9f56d81e-1e0a-452e-baa3-0f088e1c6a1e'}
+2018-05-23 Wed 15:26:35.834 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(182, 99)]
+2018-05-23 Wed 15:26:39.755 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:26:41.026 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '182,99', 'Id': 'cbc6473f-f21c-44e7-8432-bb0891f6845d'}
+2018-05-23 Wed 15:26:41.026 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(182, 99)]
+2018-05-23 Wed 15:26:45.058 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:26:46.391 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '182,99', 'Id': '7cbc6583-fe80-4c0e-8dce-6264a0b69943'}
+2018-05-23 Wed 15:26:46.392 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(182, 99)]
+2018-05-23 Wed 15:26:50.332 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:26:53.655 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '189,86', 'Id': '976bcad5-f980-499c-b5f7-7198d8c6b988'}
+2018-05-23 Wed 15:26:53.656 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(189, 86)]
+2018-05-23 Wed 15:27:42.962 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:27:45.016 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '133,95', 'Id': 'b0e2ccb6-2cec-46cf-838b-88ee8d2dd812'}
+2018-05-23 Wed 15:27:45.016 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(133, 95)]
+2018-05-23 Wed 15:27:48.103 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:27:48.930 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '133,95', 'Id': 'f0253a56-d401-4723-b4c4-4eb548c117b4'}
+2018-05-23 Wed 15:27:48.930 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(133, 95)]
+2018-05-23 Wed 15:27:51.944 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:27:52.701 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '133,95', 'Id': '4fe93d64-35e2-4155-bcba-98a754dbc7d4'}
+2018-05-23 Wed 15:27:52.701 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(133, 95)]
+2018-05-23 Wed 15:27:56.211 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:27:59.189 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '183,75', 'Id': '6ed72818-1c80-4727-9201-d01604cc7c79'}
+2018-05-23 Wed 15:27:59.189 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(183, 75)]
+2018-05-23 Wed 15:28:03.014 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:28:04.481 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '183,75', 'Id': 'c90970f7-15cc-4c70-b488-65e05d6a9126'}
+2018-05-23 Wed 15:28:04.481 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(183, 75)]
+2018-05-23 Wed 15:28:07.757 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:28:08.982 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '183,75', 'Id': 'e75d310d-f54c-457c-8a03-a97c2d92b9b9'}
+2018-05-23 Wed 15:28:08.982 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(183, 75)]
+2018-05-23 Wed 15:28:13.260 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:28:15.450 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '191,106', 'Id': '80cd79eb-2176-4398-a622-e25a7b33619b'}
+2018-05-23 Wed 15:28:15.451 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(191, 106)]
+2018-05-23 Wed 15:29:12.053 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:29:14.156 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '199,83', 'Id': 'a6f58dd4-bb03-4d03-9077-002d1e4eeb8c'}
+2018-05-23 Wed 15:29:14.156 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(199, 83)]
+2018-05-23 Wed 15:30:52.220 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:30:58.360 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '77,82', 'Id': 'f732c7d6-8c4c-42f7-b328-ef4d52618388'}
+2018-05-23 Wed 15:30:58.361 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(77, 82)]
+2018-05-23 Wed 15:32:26.706 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:32:35.357 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '150,114', 'Id': '036a02d6-0ce2-494a-8b70-fdf1a9551d77'}
+2018-05-23 Wed 15:32:35.358 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(150, 114)]
+2018-05-23 Wed 15:33:31.495 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:33:39.467 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '85,108', 'Id': 'a747dd6e-3a2e-4b9f-950b-69240c5b56c2'}
+2018-05-23 Wed 15:33:39.468 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(85, 108)]
+2018-05-23 Wed 15:34:30.074 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:34:35.150 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '193,85', 'Id': '478a17ec-5525-4460-8a69-72a321a48a5f'}
+2018-05-23 Wed 15:34:35.150 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(193, 85)]
+2018-05-23 Wed 15:36:07.656 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:36:20.064 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '149,118', 'Id': 'f70ddb54-9409-4251-83cb-733d8e43e9b9'}
+2018-05-23 Wed 15:36:20.064 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(149, 118)]
+2018-05-23 Wed 15:39:38.164 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:39:45.281 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '114,109', 'Id': '80a06536-bfaa-4ba7-bdbe-d4dd7f4fcc09'}
+2018-05-23 Wed 15:39:45.282 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(114, 109)]
+2018-05-23 Wed 15:40:47.548 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:40:55.314 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '220,99', 'Id': '3334cc5f-f7e2-4db2-9579-70199bb29017'}
+2018-05-23 Wed 15:40:55.315 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(220, 99)]
+2018-05-23 Wed 15:41:47.927 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:42:01.168 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '53,66', 'Id': '35d7d849-347d-4ccb-ab61-05cba38d528e'}
+2018-05-23 Wed 15:42:01.169 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(53, 66)]
+2018-05-23 Wed 15:42:51.700 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:42:56.390 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '185,99', 'Id': '7b555e51-c1fc-4277-94e2-48ef8d817f65'}
+2018-05-23 Wed 15:42:56.390 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(185, 99)]
+2018-05-23 Wed 15:45:50.996 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:46:03.976 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '266,96', 'Id': 'c79cd6fe-00f9-41d0-aaf1-ec72227ace5b'}
+2018-05-23 Wed 15:46:03.977 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(266, 96)]
+2018-05-23 Wed 15:47:06.465 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:47:11.508 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '191,111', 'Id': 'e63bb644-787d-46c5-b9b3-d03ff8610400'}
+2018-05-23 Wed 15:47:11.508 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(191, 111)]
+2018-05-23 Wed 15:50:30.000 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:50:33.746 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '163,50', 'Id': '036b75ef-2dd0-472c-a71c-7ece01c67455'}
+2018-05-23 Wed 15:50:33.746 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(163, 50)]
+2018-05-23 Wed 15:51:10.919 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:51:14.602 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '104,84', 'Id': 'fa270a20-2d9a-4b4f-9d87-f3d70d9dd9d1'}
+2018-05-23 Wed 15:51:14.602 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(104, 84)]
+2018-05-23 Wed 15:53:03.554 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:53:08.251 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '160,109', 'Id': 'd09b8a51-1fe8-4338-b9a6-01a5cc45baa9'}
+2018-05-23 Wed 15:53:08.251 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(160, 109)]
+2018-05-23 Wed 15:53:57.649 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:54:18.680 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '128,70', 'Id': '71704477-eda9-4f40-b6c1-e462b7b18cdb'}
+2018-05-23 Wed 15:54:18.681 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(128, 70)]
+2018-05-23 Wed 15:54:22.846 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:54:24.296 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '128,70', 'Id': '31b5c71b-6852-4b81-8ec0-67fa4579672b'}
+2018-05-23 Wed 15:54:24.296 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(128, 70)]
+2018-05-23 Wed 15:54:28.029 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:54:29.358 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '128,70', 'Id': 'b6e46496-fe7a-476d-aa46-b5bbc00d8dbf'}
+2018-05-23 Wed 15:54:29.359 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(128, 70)]
+2018-05-23 Wed 15:54:32.302 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:54:40.202 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '165,35', 'Id': '7b40b7a7-65e5-4a38-a8ff-a88139fcd548'}
+2018-05-23 Wed 15:54:40.203 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(165, 35)]
+2018-05-23 Wed 15:55:29.923 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:55:33.332 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '186,73', 'Id': '13dc4674-31e8-46fe-bd10-583286acf0ee'}
+2018-05-23 Wed 15:55:33.333 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(186, 73)]
+2018-05-23 Wed 15:55:37.643 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:55:39.211 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '186,73', 'Id': 'bcee0ed6-e5da-43b9-8a58-4ca709f69fad'}
+2018-05-23 Wed 15:55:39.211 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(186, 73)]
+2018-05-23 Wed 15:55:42.311 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:55:43.934 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '186,73', 'Id': '4ccb9fdf-a509-4536-8792-851eb67498ca'}
+2018-05-23 Wed 15:55:43.934 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(186, 73)]
+2018-05-23 Wed 15:55:46.844 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:55:51.102 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '213,132', 'Id': 'd31ba325-3664-4605-8339-dfeb2bcbc9a3'}
+2018-05-23 Wed 15:55:51.102 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(213, 132)]
+2018-05-23 Wed 15:56:40.512 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:56:43.318 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '251,47', 'Id': 'b56d123e-1a03-4883-9a89-74d175404626'}
+2018-05-23 Wed 15:56:43.319 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(251, 47)]
+2018-05-23 Wed 15:58:15.961 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:58:24.250 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '230,110', 'Id': '31bdaf04-5ed9-4cb1-8171-4ecc5cee1171'}
+2018-05-23 Wed 15:58:24.250 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(230, 110)]
+2018-05-23 Wed 15:59:14.894 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 15:59:18.071 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '131,62', 'Id': 'cf73c134-ef67-449c-98b1-cb92dd42f618'}
+2018-05-23 Wed 15:59:18.071 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(131, 62)]
+2018-05-23 Wed 16:00:51.251 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:00:53.675 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '259,35', 'Id': 'fd9b5d88-060f-4208-a98a-1d09388b1c6a'}
+2018-05-23 Wed 16:00:53.675 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(259, 35)]
+2018-05-23 Wed 16:01:42.514 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:01:48.545 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '185,68', 'Id': '42f719bc-c824-4305-9952-d3cefdbf57dd'}
+2018-05-23 Wed 16:01:48.546 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(185, 68)]
+2018-05-23 Wed 16:03:26.176 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:03:34.502 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '226,105', 'Id': '46ccfd7a-df6c-40ff-80db-c3d30cb8473e'}
+2018-05-23 Wed 16:03:34.502 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(226, 105)]
+2018-05-23 Wed 16:15:54.367 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:15:56.419 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '231,78', 'Id': '88c0798b-e465-4ad7-b699-6f412fc43532'}
+2018-05-23 Wed 16:15:56.419 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(231, 78)]
+2018-05-23 Wed 16:16:00.803 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:16:01.955 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '231,78', 'Id': '3fed3e5b-d278-46e9-80e3-175f6834833a'}
+2018-05-23 Wed 16:16:01.955 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(231, 78)]
+2018-05-23 Wed 16:16:05.926 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:16:07.262 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '231,78', 'Id': 'edcc742e-f1d5-4531-a105-5c5d3d164d3f'}
+2018-05-23 Wed 16:16:07.262 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(231, 78)]
+2018-05-23 Wed 16:16:10.868 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:16:11.628 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '191,106', 'Id': '2855bfbb-8227-420d-84da-9980b51fec7b'}
+2018-05-23 Wed 16:16:11.629 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(191, 106)]
+2018-05-23 Wed 16:17:13.252 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:18.907 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '165,80', 'Id': '5d9c1907-4f27-4ca3-b843-b9b8bdb6976f'}
+2018-05-23 Wed 16:17:18.907 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(165, 80)]
+2018-05-23 Wed 16:17:21.944 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:22.833 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '165,80', 'Id': 'db1b399a-d520-4ffa-aa6c-fd07b522d7b3'}
+2018-05-23 Wed 16:17:22.834 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(165, 80)]
+2018-05-23 Wed 16:17:26.436 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:27.480 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '165,80', 'Id': '7e6e986a-2eef-410e-b589-6aea6d7da2bf'}
+2018-05-23 Wed 16:17:27.480 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(165, 80)]
+2018-05-23 Wed 16:17:30.952 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:33.036 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '196,90', 'Id': '2fa83769-6f43-4487-b0de-54e8afbae90c'}
+2018-05-23 Wed 16:17:33.036 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(196, 90)]
+2018-05-23 Wed 16:17:36.770 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:38.149 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '196,90', 'Id': 'a9233c1e-7b66-443c-a852-97da78a98fae'}
+2018-05-23 Wed 16:17:38.150 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(196, 90)]
+2018-05-23 Wed 16:17:42.320 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:43.417 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '196,90', 'Id': 'df3592b5-ff35-4231-8d52-fc4b6b8c50ab'}
+2018-05-23 Wed 16:17:43.417 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(196, 90)]
+2018-05-23 Wed 16:17:46.984 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:17:51.578 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '163,120', 'Id': 'caa3256d-b1cc-4f75-925a-87862e904744'}
+2018-05-23 Wed 16:17:51.578 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(163, 120)]
+2018-05-23 Wed 16:18:30.199 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:18:34.102 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '91,96', 'Id': '61c6c0a4-f4b0-4b3d-a820-483caee4b96c'}
+2018-05-23 Wed 16:18:34.102 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(91, 96)]
+2018-05-23 Wed 16:20:07.106 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:20:12.856 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '126,125', 'Id': '91b4603f-1bcf-49e6-ae98-ce3710707a1a'}
+2018-05-23 Wed 16:20:12.856 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(126, 125)]
+2018-05-23 Wed 16:20:57.069 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:21:05.311 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '100,79', 'Id': '436e4d13-8da6-4d6f-b98a-8e75cafbd1ea'}
+2018-05-23 Wed 16:21:05.311 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(100, 79)]
+2018-05-23 Wed 16:22:39.680 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:22:50.673 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '63,99', 'Id': 'da3a6b0a-18a2-4f37-b4e0-1b6ebc537b6d'}
+2018-05-23 Wed 16:22:50.674 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(63, 99)]
+2018-05-23 Wed 16:23:43.201 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:23:44.193 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '219,90', 'Id': '76da9090-10ec-414f-8683-e0ed70e6138c'}
+2018-05-23 Wed 16:23:44.194 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(219, 90)]
+2018-05-23 Wed 16:23:47.671 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:23:48.971 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '219,90', 'Id': '2b5f8206-9eb7-4de8-8867-b2b1511efc94'}
+2018-05-23 Wed 16:23:48.971 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(219, 90)]
+2018-05-23 Wed 16:23:52.704 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:23:53.663 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '219,90', 'Id': 'fc8cd925-63b3-4587-81f4-72c791fd521b'}
+2018-05-23 Wed 16:23:53.663 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(219, 90)]
+2018-05-23 Wed 16:23:56.783 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:24:00.139 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '162,87', 'Id': 'b3c8f926-0b9e-4467-9d89-c1efb097a1ce'}
+2018-05-23 Wed 16:24:00.139 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(162, 87)]
+2018-05-23 Wed 16:24:50.576 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:24:54.391 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '106,124', 'Id': 'bf6d2e30-9621-48dc-8650-037ac7caf55d'}
+2018-05-23 Wed 16:24:54.392 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(106, 124)]
+2018-05-23 Wed 16:26:27.304 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:26:30.995 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '52,70', 'Id': '9c4b5fb0-30a4-4940-a9fa-99da71a1ed70'}
+2018-05-23 Wed 16:26:30.996 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(52, 70)]
+2018-05-23 Wed 16:27:15.700 INFO - dama2_API - decode_captcha: 163
+>>> POST to decode CAPTCHA. captcha_type: 6137, file_path: /tmp/zhaopingou/captcha_img_333.png
+2018-05-23 Wed 16:27:20.716 INFO - dama2_API - decode_captcha: 166
+>>> Received r.json(): {'Result': '208,83', 'Id': 'e3f70b32-9c3e-4572-ba46-1e8190ce9f38'}
+2018-05-23 Wed 16:27:20.717 INFO - dama2_API - decode_captcha: 179
+>>> CAPTCHA type: 310, coordinate_list: [(208, 83)]

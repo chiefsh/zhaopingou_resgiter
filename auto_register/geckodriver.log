@@ -1,0 +1,703 @@
+1526554151722	geckodriver	INFO	geckodriver 0.19.1
+1526554151724	geckodriver	INFO	Listening on 127.0.0.1:33123
+1526554152802	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wf0mHbidZ7fx"
+1526554153140	Marionette	INFO	Enabled via --marionette
+1526554154098	Marionette	INFO	Listening on port 35361
+1526554154116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 19718, Gecko_IOThread] WARNING: pipe error (96): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526554942042	geckodriver	INFO	geckodriver 0.19.1
+1526554942045	geckodriver	INFO	Listening on 127.0.0.1:51721
+1526554943140	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PEPPqr6H2KVq"
+1526554943464	Marionette	INFO	Enabled via --marionette
+1526554944398	Marionette	INFO	Listening on port 36461
+1526554944454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 20309, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20309, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 20309, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526555708091	geckodriver	INFO	geckodriver 0.19.1
+1526555708093	geckodriver	INFO	Listening on 127.0.0.1:35309
+1526555709183	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.u920ZKwOnsWg"
+1526555709486	Marionette	INFO	Enabled via --marionette
+1526555710650	Marionette	INFO	Listening on port 43793
+1526555710696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1526556196642	geckodriver	INFO	geckodriver 0.19.1
+1526556196645	geckodriver	INFO	Listening on 127.0.0.1:60201
+1526556197729	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y7ZPieKp4B1f"
+1526556198026	Marionette	INFO	Enabled via --marionette
+1526556199008	Marionette	INFO	Listening on port 46405
+1526556199034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526556780584	geckodriver	INFO	geckodriver 0.19.1
+1526556780586	geckodriver	INFO	Listening on 127.0.0.1:46859
+1526556781681	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lTJav9JFAbka"
+1526556781976	Marionette	INFO	Enabled via --marionette
+1526556783022	Marionette	INFO	Listening on port 35759
+1526556783098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526556937189	geckodriver	INFO	geckodriver 0.19.1
+1526556937192	geckodriver	INFO	Listening on 127.0.0.1:48897
+1526556938277	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q8kVAsGXyoLl"
+1526556938588	Marionette	INFO	Enabled via --marionette
+1526556939664	Marionette	INFO	Listening on port 37821
+1526556939682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1526557410271	geckodriver	INFO	geckodriver 0.19.1
+1526557410274	geckodriver	INFO	Listening on 127.0.0.1:60011
+1526557411371	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QnCNl60gP4am"
+1526557411746	Marionette	INFO	Enabled via --marionette
+1526557412854	Marionette	INFO	Listening on port 38179
+1526557412886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526557485869	geckodriver	INFO	geckodriver 0.19.1
+1526557485872	geckodriver	INFO	Listening on 127.0.0.1:40477
+1526557486951	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.moR8exBNIcxV"
+1526557487248	Marionette	INFO	Enabled via --marionette
+1526557488180	Marionette	INFO	Listening on port 39933
+1526557488256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526557682633	geckodriver	INFO	geckodriver 0.19.1
+1526557682636	geckodriver	INFO	Listening on 127.0.0.1:55331
+1526557683727	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YXEOpylExZSa"
+1526557684032	Marionette	INFO	Enabled via --marionette
+1526557685040	Marionette	INFO	Listening on port 44207
+1526557685132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22030, Gecko_IOThread] WARNING: pipe error (90): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526557856622	geckodriver	INFO	geckodriver 0.19.1
+1526557856624	geckodriver	INFO	Listening on 127.0.0.1:56695
+1526557857711	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3o87VNCzo9Kf"
+1526557858018	Marionette	INFO	Enabled via --marionette
+1526557858984	Marionette	INFO	Listening on port 38895
+1526557859026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526557963221	geckodriver	INFO	geckodriver 0.19.1
+1526557963224	geckodriver	INFO	Listening on 127.0.0.1:40471
+1526557964309	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dIoVedDY98dM"
+1526557964626	Marionette	INFO	Enabled via --marionette
+1526557965570	Marionette	INFO	Listening on port 36237
+1526557965618	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22841, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 22628, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1526558049496	geckodriver	INFO	geckodriver 0.19.1
+1526558049499	geckodriver	INFO	Listening on 127.0.0.1:57421
+1526558050593	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VP0fZ0KilYgn"
+1526558050902	Marionette	INFO	Enabled via --marionette
+1526558051870	Marionette	INFO	Listening on port 38943
+1526558051910	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526605904600	geckodriver	INFO	geckodriver 0.19.1
+1526605904603	geckodriver	INFO	Listening on 127.0.0.1:55071
+1526605905691	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8n18Suu1gMuE"
+1526605906202	Marionette	INFO	Enabled via --marionette
+1526605907344	Marionette	INFO	Listening on port 45147
+1526605907400	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526606207406	geckodriver	INFO	geckodriver 0.19.1
+1526606207409	geckodriver	INFO	Listening on 127.0.0.1:40237
+1526606208496	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pwheOonNiCkk"
+1526606208792	Marionette	INFO	Enabled via --marionette
+1526606209758	Marionette	INFO	Listening on port 39981
+1526606209800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526607091239	geckodriver	INFO	geckodriver 0.19.1
+1526607091242	geckodriver	INFO	Listening on 127.0.0.1:60439
+1526607092335	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fqtPaRkKiwKX"
+1526607092628	Marionette	INFO	Enabled via --marionette
+1526607093574	Marionette	INFO	Listening on port 36935
+1526607093640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526607369976	geckodriver	INFO	geckodriver 0.19.1
+1526607369978	geckodriver	INFO	Listening on 127.0.0.1:40925
+1526607371066	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.keoZ6t6E8L9j"
+1526607371458	Marionette	INFO	Enabled via --marionette
+1526607372480	Marionette	INFO	Listening on port 35921
+1526607372572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526607661499	geckodriver	INFO	geckodriver 0.19.1
+1526607661502	geckodriver	INFO	Listening on 127.0.0.1:57497
+1526607662590	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XAZdtXvXuzz6"
+1526607662912	Marionette	INFO	Enabled via --marionette
+1526607663900	Marionette	INFO	Listening on port 40993
+1526607664010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3349, Gecko_IOThread] WARNING: pipe error (71): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1526608285155	geckodriver	INFO	geckodriver 0.19.1
+1526608285158	geckodriver	INFO	Listening on 127.0.0.1:56733
+1526608286248	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5HtUGg9nnJQq"
+1526608286544	Marionette	INFO	Enabled via --marionette
+1526608287468	Marionette	INFO	Listening on port 36641
+1526608287556	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/home/headhunter/Downloads/firefox/firefox:3772): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+1526608748611	geckodriver	INFO	geckodriver 0.19.1
+1526608748613	geckodriver	INFO	Listening on 127.0.0.1:49515
+1526608749701	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HpzM1y4zH8ad"
+1526608749984	Marionette	INFO	Enabled via --marionette
+1526608750976	Marionette	INFO	Listening on port 44107
+1526608751008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+(/home/headhunter/Downloads/firefox/firefox:4036): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+JavaScript error: resource://gre/modules/AutoCompletePopup.jsm, line 163: TypeError: Services.focus.focusedWindow is null
+1526609214324	geckodriver	INFO	geckodriver 0.19.1
+1526609214327	geckodriver	INFO	Listening on 127.0.0.1:52669
+1526609215415	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2I6RLBasAirr"
+1526609215704	Marionette	INFO	Enabled via --marionette
+1526609216728	Marionette	INFO	Listening on port 44867
+1526609216822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526609683740	geckodriver	INFO	geckodriver 0.19.1
+1526609683742	geckodriver	INFO	Listening on 127.0.0.1:33355
+1526609684829	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yGqFAYZAb2BC"
+1526609685134	Marionette	INFO	Enabled via --marionette
+1526609686096	Marionette	INFO	Listening on port 42205
+1526609686136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526609902612	geckodriver	INFO	geckodriver 0.19.1
+1526609902614	geckodriver	INFO	Listening on 127.0.0.1:37329
+1526609903709	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fnWsjpru4vBt"
+1526609904002	Marionette	INFO	Enabled via --marionette
+1526609904948	Marionette	INFO	Listening on port 46043
+1526609905016	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4982, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 2850, Gecko_IOThread] WARNING: pipe error (72): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 4654, Gecko_IOThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1526610180922	geckodriver	INFO	geckodriver 0.19.1
+1526610180925	geckodriver	INFO	Listening on 127.0.0.1:57109
+1526610182016	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KFJ6DZHNl7Nv"
+1526610182306	Marionette	INFO	Enabled via --marionette
+1526610183240	Marionette	INFO	Listening on port 38193
+1526610183332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526610336406	geckodriver	INFO	geckodriver 0.19.1
+1526610336408	geckodriver	INFO	Listening on 127.0.0.1:54451
+1526610337500	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TwQUujDyL1Nd"
+1526610337786	Marionette	INFO	Enabled via --marionette
+1526610338744	Marionette	INFO	Listening on port 34707
+1526610338804	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1526694157160	geckodriver	INFO	geckodriver 0.19.1
+1526694157164	geckodriver	INFO	Listening on 127.0.0.1:44139
+1526694158267	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.srUERQG8kuK2"
+1526694158840	Marionette	INFO	Enabled via --marionette
+1526694160036	Marionette	INFO	Listening on port 42129
+1526694160076	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2349, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2296, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526694411110	geckodriver	INFO	geckodriver 0.19.1
+1526694411113	geckodriver	INFO	Listening on 127.0.0.1:46141
+1526694412208	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pnpQdFBG7yAe"
+1526694412500	Marionette	INFO	Enabled via --marionette
+1526694413466	Marionette	INFO	Listening on port 45517
+1526694413518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526694714267	geckodriver	INFO	geckodriver 0.19.1
+1526694714270	geckodriver	INFO	Listening on 127.0.0.1:48565
+1526694715357	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Yt0jNJUdV2Ck"
+1526694715652	Marionette	INFO	Enabled via --marionette
+1526694716578	Marionette	INFO	Listening on port 44359
+1526694716670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526694775731	geckodriver	INFO	geckodriver 0.19.1
+1526694775733	geckodriver	INFO	Listening on 127.0.0.1:46295
+1526694776824	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jSMOYLWcQrna"
+1526694777122	Marionette	INFO	Enabled via --marionette
+1526694778066	Marionette	INFO	Listening on port 44435
+1526694778130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 2899, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 2899, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 2845, Gecko_IOThread] WARNING: pipe error (37): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1526695086207	geckodriver	INFO	geckodriver 0.19.1
+1526695086210	geckodriver	INFO	Listening on 127.0.0.1:48633
+1526695087311	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Yfi8V093EGTS"
+1526695087702	Marionette	INFO	Enabled via --marionette
+1526695088854	Marionette	INFO	Listening on port 33273
+1526695088924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526695100932	geckodriver	INFO	geckodriver 0.19.1
+1526695100935	geckodriver	INFO	Listening on 127.0.0.1:52823
+1526695102024	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IZNtVTe8GiUg"
+1526695102320	Marionette	INFO	Enabled via --marionette
+1526695103428	Marionette	INFO	Listening on port 35873
+1526695103436	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://qiye.zhaopingou.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:600:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:600:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+1526698291945	geckodriver	INFO	geckodriver 0.19.1
+1526698291950	geckodriver	INFO	Listening on 127.0.0.1:43341
+1526698293033	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ARjVMt8ypEmW"
+1526698293314	Marionette	INFO	Enabled via --marionette
+1526698294246	Marionette	INFO	Listening on port 42453
+1526698294350	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+1526699085821	geckodriver	INFO	geckodriver 0.19.1
+1526699085823	geckodriver	INFO	Listening on 127.0.0.1:54079
+1526699086920	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4pV3DwUT54kz"
+1526699087216	Marionette	INFO	Enabled via --marionette
+1526699088200	Marionette	INFO	Listening on port 35461
+1526699088234	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/home/headhunter/Downloads/firefox/firefox:4534): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: 权限不够
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:521:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:441:5
+Line: 1875, column: 0
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1875"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1875:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:651:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:608:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:702:7
+Line: 1875, column: 0
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1526884926553	geckodriver	INFO	geckodriver 0.19.1
+1526884926557	geckodriver	INFO	Listening on 127.0.0.1:32871
+1526884927648	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.n8hKfEbyqqXz"
+1526884928262	Marionette	INFO	Enabled via --marionette
+1526884929490	Marionette	INFO	Listening on port 39915
+1526884929560	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1526885432235	geckodriver	INFO	geckodriver 0.19.1
+1526885432237	geckodriver	INFO	Listening on 127.0.0.1:42277
+1526885433324	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MAjtMEA0hHHr"
+1526885433620	Marionette	INFO	Enabled via --marionette
+1526885434596	Marionette	INFO	Listening on port 35873
+1526885434634	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+1526886312237	geckodriver	INFO	geckodriver 0.19.1
+1526886312240	geckodriver	INFO	Listening on 127.0.0.1:56189
+1526886313332	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.E0LiXL0palEO"
+1526886313632	Marionette	INFO	Enabled via --marionette
+1526886314598	Marionette	INFO	Listening on port 32899
+1526886314640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s.oyasj.com/a/tsw/gw.js?l=95&sid=107&fid=t6413, line 1: SyntaxError: expected expression, got '<'
+1526886356165	geckodriver	INFO	geckodriver 0.19.1
+1526886356168	geckodriver	INFO	Listening on 127.0.0.1:48147
+1526886357253	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZtLJx09DepyK"
+1526886357592	Marionette	INFO	Enabled via --marionette
+1526886358610	Marionette	INFO	Listening on port 37483
+1526886358668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1526886492358	geckodriver	INFO	geckodriver 0.19.1
+1526886492361	geckodriver	INFO	Listening on 127.0.0.1:33825
+1526886493458	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3M2rph9EKCJn"
+1526886493776	Marionette	INFO	Enabled via --marionette
+1526886494754	Marionette	INFO	Listening on port 38373
+1526886494768	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1526887179017	geckodriver	INFO	geckodriver 0.19.1
+1526887179019	geckodriver	INFO	Listening on 127.0.0.1:34311
+1526887180108	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ExBbwGsLVC29"
+1526887180418	Marionette	INFO	Enabled via --marionette
+1526887181392	Marionette	INFO	Listening on port 36177
+1526887181418	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+1526888128043	geckodriver	INFO	geckodriver 0.19.1
+1526888128046	geckodriver	INFO	Listening on 127.0.0.1:37169
+1526888129144	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aqHfJy0XsThR"
+1526888129448	Marionette	INFO	Enabled via --marionette
+1526888130418	Marionette	INFO	Listening on port 34665
+1526888130464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526888149027	geckodriver	INFO	geckodriver 0.19.1
+1526888149029	geckodriver	INFO	Listening on 127.0.0.1:37671
+1526888150115	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FRWVYVEyr1bH"
+1526888150426	Marionette	INFO	Enabled via --marionette
+1526888151372	Marionette	INFO	Listening on port 39239
+1526888151420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1526888333776	geckodriver	INFO	geckodriver 0.19.1
+1526888333778	geckodriver	INFO	Listening on 127.0.0.1:34019
+1526888334896	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vxJZAYG6CKEs"
+1526888335210	Marionette	INFO	Enabled via --marionette
+1526888336146	Marionette	INFO	Listening on port 33801
+1526888336204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1527060012170	geckodriver	INFO	geckodriver 0.19.1
+1527060012174	geckodriver	INFO	Listening on 127.0.0.1:54645
+1527060013256	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tmvD76S5h6Ao"
+1527060013774	Marionette	INFO	Enabled via --marionette
+1527060014904	Marionette	INFO	Listening on port 36277
+1527060014966	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://webapi.amap.com/maps/main?v=1.4.0&key=ca01004590c4de85819fe020e86b6442&m=http,map,anip,layers,overlay0,brender,mrender,mouse,vectorlayer,overlay,cmng,cgl,sync&vrs=1504670922595, line 116: TypeError: b is undefined
+1527060377397	geckodriver	INFO	geckodriver 0.19.1
+1527060377400	geckodriver	INFO	Listening on 127.0.0.1:45475
+1527060378488	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C7BoqKaMJ8CB"
+1527060378794	Marionette	INFO	Enabled via --marionette
+1527060379766	Marionette	INFO	Listening on port 39049
+1527060379796	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://webapi.amap.com/maps/main?v=1.4.0&key=ca01004590c4de85819fe020e86b6442&m=http,map,anip,layers,overlay0,brender,mrender,mouse,vectorlayer,overlay,cmng,cgl,sync&vrs=1504670922595, line 116: TypeError: b is undefined
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1527061163150	geckodriver	INFO	geckodriver 0.19.1
+1527061163152	geckodriver	INFO	Listening on 127.0.0.1:56659
+1527061164240	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2YlC5jsg5030"
+1527061164538	Marionette	INFO	Enabled via --marionette
+1527061165466	Marionette	INFO	Listening on port 45327
+1527061165544	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1527061535715	geckodriver	INFO	geckodriver 0.19.1
+1527061535717	geckodriver	INFO	Listening on 127.0.0.1:46219
+1527061536814	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.01EUAFsREs0d"
+1527061537104	Marionette	INFO	Enabled via --marionette
+1527061538114	Marionette	INFO	Listening on port 45477
+1527061538120	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+1527061815130	geckodriver	INFO	geckodriver 0.19.1
+1527061815132	geckodriver	INFO	Listening on 127.0.0.1:49281
+1527061816219	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.u4gTqNBbxTy3"
+1527061816532	Marionette	INFO	Enabled via --marionette
+1527061817508	Marionette	INFO	Listening on port 37145
+1527061817534	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+1527063338773	geckodriver	INFO	geckodriver 0.19.1
+1527063338776	geckodriver	INFO	Listening on 127.0.0.1:56563
+1527063339862	mozrunner::runner	INFO	Running command: "/home/headhunter/Downloads/firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bRUnrM8uR1xf"
+1527063340178	Marionette	INFO	Enabled via --marionette
+1527063341204	Marionette	INFO	Listening on port 37321
+1527063341278	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: http://qiye.zhaopingou.com/zpgSource/js/computer/conmmAll.min.js?bust=242, line 1: TypeError: AMap.Map is not a constructor
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://sgoutong.baidu.com/embed/1525933466/asset/embed/pc_nb.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 8738, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
